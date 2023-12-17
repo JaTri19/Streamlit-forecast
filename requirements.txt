@@ -11,3 +11,4 @@ statsmodels.tsa.arima.model
 pandas.tseries.offsets
 plotly
 streamlit
+pip
