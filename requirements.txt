@@ -11,4 +11,3 @@ pandas
 statsmodels
 streamlit
 plotly
-python3
