@@ -7,7 +7,6 @@ matplotlib
 scipy
 stats
 datetime
-math
 pandas
 statsmodels
 streamlit
