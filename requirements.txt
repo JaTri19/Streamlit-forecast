@@ -11,3 +11,4 @@ pandas
 statsmodels
 streamlit
 plotly
+openpyxl
