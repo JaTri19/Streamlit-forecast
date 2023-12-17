@@ -7,15 +7,9 @@ matplotlib
 scipy
 stats
 datetime
-itertools
 math
-sqrt
 pandas
-read_csv
 statsmodels
-ARIMA
-pandas
-DateOffset
 streamlit
 plotly
 python3
